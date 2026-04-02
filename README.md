@@ -2,6 +2,8 @@
 
 Small vibe coded project to crawl a list of urls and extract aws, azure and gcp buckets.
 
+Example of abuse: https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/
+
 ## Installation
 
 ```
